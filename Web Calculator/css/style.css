@@ -1,0 +1,32 @@
+
+
+/* button */
+button {
+  width: 45px;
+  height: 45px;
+  border-radius: 15px;
+  border: none;
+  outline: none;
+  font-size: 22px;
+  background-color: #00cc66;
+  color: #fff;
+  margin: 8px;
+  cursor: pointer;
+}
+
+input{
+   width: 250px;
+   height: 55px;
+   font-size: 28px;
+   text-align:center;
+   background-color: #f3f3f3;
+   border: none;
+   border-radius: 7px;
+}
+
+.calculator {
+  width: 300px;
+  padding-bottom: 15px;
+  border-radius: 7px;
+  background-color:  #cdcbcb;
+}
